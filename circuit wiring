@@ -1,0 +1,28 @@
+Wiring:
+HC-SR04
+
+VCC → 5V
+
+GND → GND
+
+TRIG → D10
+
+ECHO → D8
+
+LED
+
+Anode (+) → D13
+
+Cathode (-) → GND (preferably through a 220Ω resistor)
+
+Buzzer
+
+→ D9
+
+→ GND
+
+Slide Switch
+
+One side → D10 or D8 area in the drawing (unclear)
+
+Other side → GND
